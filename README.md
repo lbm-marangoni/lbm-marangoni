@@ -8,8 +8,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Marangoni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-marangoni)
-[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Marangoni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lbm-marangoni)
+[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lbm.marangoni@gmail.com)
 [![FAAP](https://img.shields.io/badge/FAAP-BIA_Program-003580?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.faap.br)
 
 </div>

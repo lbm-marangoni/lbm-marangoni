@@ -94,10 +94,7 @@ End-to-end investment case developed for a **Multi-Family Office**:
 ## 🚀 What I'm Currently Working On
 
 - 🐍 Deepening **Python for Finance** — expanding projects with more rigorous statistical methods
-- 📉 Building a **Portfolio Risk Dashboard** with interactive visualizations
 - 🔢 Starting to explore **quantitative finance** concepts — portfolio optimization, factor models
-- 🌐 Improving **English** — aiming for TOEFL 100+ for Bocconi application
-- 📜 Planning certifications: **CPA-20** and **C-PRO I**
 
 ---
 

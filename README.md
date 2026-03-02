@@ -102,7 +102,9 @@ End-to-end investment case developed for a **Multi-Family Office**:
 
 <div align="center">
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbm-marangoni&show_icons=true&theme=radical)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=lbm-marangoni&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbm-marangoni&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" />
 
 </div>
 

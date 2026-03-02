@@ -102,8 +102,7 @@ End-to-end investment case developed for a **Multi-Family Office**:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=lbm-marangoni&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbm-marangoni&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbm-marangoni&show_icons=true&theme=radical)
 
 </div>
 
@@ -114,7 +113,6 @@ End-to-end investment case developed for a **Multi-Family Office**:
 | | |
 |---|---|
 | 🏛️ **FAAP** — BIA Program | Economics + Business + International Relations (2025–2028) |
-| 💹 **FAAP Finance** | Investment Research Division — Member |
 | 📚 **Company Valuation** — FAAP | M&A, DCF, capital structure, financial modeling |
 | 📊 **Financial Statement Analysis** | Balance sheet, P&L, cash flow, financial ratios |
 

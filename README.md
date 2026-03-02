@@ -132,6 +132,6 @@ End-to-end investment case developed for a **Multi-Family Office**:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a2e,16213e,0f3460&height=100&section=footer" />
 
-*"The goal of investing is not to beat the market — it's to understand it well enough to navigate it."*
+*"You don't get paid for taking risk. You get paid for understanding it."*
 
 </div>

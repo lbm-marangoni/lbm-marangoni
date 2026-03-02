@@ -59,33 +59,6 @@ I'm deeply interested in how data, math, and economic reasoning come together to
 
 ## 📂 Featured Projects
 
-### 🔷 [Portfolio Risk Analysis](https://github.com/lbm-marangoni/portfolio-risk-analysis)
-> Quantitative risk framework for equity portfolios
-
-Comprehensive risk analysis tool covering **VaR, CVaR, maximum drawdown, volatility decomposition** and correlation analysis. Built to answer: *how exposed is a portfolio, and where does that risk come from?*
-
-`Python` `Pandas` `NumPy` `Plotly` `yFinance`
-
----
-
-### 🔷 [Stock Valuation Model — Python](https://github.com/lbm-marangoni/stock-valuation-model)
-> DCF and CAGR-based fundamental valuation
-
-A complete valuation model in Python: revenue projections, CAGR analysis, DCF with WACC, margin analysis, and final price target calculation. Inspired by real equity research work.
-
-`Python` `Pandas` `Plotly` `Excel`
-
----
-
-### 🔷 [Portfolio Optimizer](https://github.com/lbm-marangoni/portfolio-optimizer)
-> Markowitz mean-variance optimization
-
-Efficient frontier construction, Sharpe ratio maximization, minimum volatility portfolio — implementing Modern Portfolio Theory from scratch with real market data.
-
-`Python` `NumPy` `SciPy` `Plotly`
-
----
-
 ### 🔷 [MFO Case Study — Investment Policy Statement](https://github.com/lbm-marangoni/mfo-case-study)
 > Real multi-family office case: equity research + portfolio construction + risk management
 

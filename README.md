@@ -100,8 +100,6 @@ End-to-end investment case developed for a **Multi-Family Office**:
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lbm-marangoni&theme=github_dark" />

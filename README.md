@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Marangoni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lbm-marangoni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Marangoni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-marangoni)
 [![Email](https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
 [![FAAP](https://img.shields.io/badge/FAAP-BIA_Program-003580?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.faap.br)
 
@@ -22,11 +22,9 @@ I'm a **Economics student at FAAP** (BIA Program — triple degree in Economics,
 
 I'm deeply interested in how data, math, and economic reasoning come together to make smarter investment decisions. My goal is to become a **portfolio manager**, with a special interest in hedge funds, asset management, and quant strategies.
 
-- 🏦 Member of **FAAP Finance** — Investment Research Division
 - 📊 Building projects at the intersection of **Python, finance, and data analysis**
 - 📈 Active investor with a real, diversified portfolio
 - 🎯 Long-term goal: Portfolio Manager (Quant) | Hedge Fund | Wealthtech
-- 🌍 Future plans: MSc abroad — target **Bocconi University**
 
 ---
 

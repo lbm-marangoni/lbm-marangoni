@@ -82,7 +82,7 @@ A Python class-based pipeline that automates the full data collection workflow f
 
 | | |
 |---|---|
-| 🏛️ **FAAP** — BIA Program | Economics + Business + International Relations (2025–2028) |
+| 🏛️ **FAAP** — BIA Program | Economics + Business + International Relations (2025–2030) |
 | 📚 **Company Valuation** — FAAP | M&A, DCF, capital structure, financial modeling |
 | 📊 **Financial Statement Analysis** | Balance sheet, P&L, cash flow, financial ratios |
 

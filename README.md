@@ -64,6 +64,7 @@ I'm deeply interested in how data, math, and economic reasoning come together to
 > Automated pipeline for downloading, storing, and updating historical stock market data 
 
 A Python class-based pipeline that automates the full data collection workflow for equity portfolios — from initial download to incremental updates — storing structured historical data ready for analysis, backtesting, or modeling. 
+
 `Python` `Pandas` `yFinance` `Jupyter`
 
 ---

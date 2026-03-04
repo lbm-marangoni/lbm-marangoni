@@ -66,6 +66,13 @@ A Python class-based pipeline that automates the full data collection workflow f
 
 `Python` `Pandas` `yFinance` `Jupyter`
 
+# 🔷 [Stock Screener — Fundamental Analysis](https://github.com/lbm-marangoni/stock-screener)
+> Filter stocks based on key fundamental metrics to identify investment opportunities
+
+A Python-based stock screener that pulls real-time fundamental data for a list of tickers and filters them against customizable criteria — automating the first layer of any equity research process.
+
+`Python` `Pandas` `yFinance` `Jupyter`
+
 ---
 
 ## 📊 GitHub Stats

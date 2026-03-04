@@ -59,15 +59,12 @@ I'm deeply interested in how data, math, and economic reasoning come together to
 
 ## 📂 Featured Projects
 
-### 🔷 [MFO Case Study — Investment Policy Statement](https://github.com/lbm-marangoni/mfo-case-study)
-> Real multi-family office case: equity research + portfolio construction + risk management
+### 🔷 [Automated Stock Data Pipeline](https://github.com/lbm-marangoni/simple-stock-data-pipeline) 
 
-End-to-end investment case developed for a **Multi-Family Office**:
-1. **Equity Research** — Abbott (ABT) with longevity thesis, TAM analysis, KPIs, CAGR projections, and valuation
-2. **Portfolio Construction** — Life-stage allocation with IPS, rebalancing, tax planning, and estate considerations
-3. **Risk Management** — Drawdown control, tax-aware management, and patrimonial planning
+> Automated pipeline for downloading, storing, and updating historical stock market data 
 
-`Excel` `Power BI`
+A Python class-based pipeline that automates the full data collection workflow for equity portfolios — from initial download to incremental updates — storing structured historical data ready for analysis, backtesting, or modeling. 
+`Python` `Pandas` `yFinance` `Jupyter`
 
 ---
 

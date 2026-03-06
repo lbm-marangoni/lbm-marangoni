@@ -59,6 +59,13 @@ I'm deeply interested in how data, math, and economic reasoning come together to
 
 ## 📂 Featured Projects
 
+### 🔷 [Credit Risk Analyzer](https://github.com/lbm-marangoni/credit-risk-analyzer)
+> Credit scoring model with probability of default and risk rating classification
+
+Weighted scoring model that normalizes customer financial data and outputs a structured credit rating (AAA → D) with recommended action — replicating the core logic of institutional credit analysis.
+
+`Python` `NumPy` `Pandas` `Jupyter`
+
 ### 🔷 [Simple Stock Data Pipeline](https://github.com/lbm-marangoni/simple-stock-data-pipeline) 
 > Automated pipeline for downloading, storing, and updating historical stock market data 
 

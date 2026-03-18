@@ -22,6 +22,7 @@ I'm a **Economics student at FAAP** (BIA Program — triple degree in Economics,
 
 I'm deeply interested in how data, math, and economic reasoning come together to make smarter investment decisions. My goal is to become a **portfolio manager**, with a special interest in hedge funds, asset management, and quant strategies.
 
+- 🏦 Member of **FAAP Finance** — Research Division
 - 📊 Building projects at the intersection of **Python, finance, and data analysis**
 - 📈 Active investor with a real, diversified portfolio
 - 🎯 Long-term goal: Portfolio Manager (Quant) | Hedge Fund | Wealthtech

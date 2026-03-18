@@ -98,6 +98,7 @@ A Python-based stock screener that pulls real-time fundamental data for a list o
 | | |
 |---|---|
 | 🏛️ **FAAP** — BIA Program | Economics + Business + International Relations (2025–2030) |
+| 💹 **FAAP Finance** | Research Division — Member |
 | 📚 **Company Valuation** — FAAP | M&A, DCF, capital structure, financial modeling |
 | 📊 **Financial Statement Analysis** | Balance sheet, P&L, cash flow, financial ratios |
 

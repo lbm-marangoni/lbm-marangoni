@@ -1,121 +1,128 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a2e,16213e,0f3460&height=200&section=header&text=Lucas%20Marangoni&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Economics%20%7C%20Quant%20Finance%20%7C%20Portfolio%20Management&descAlignY=58&descSize=16&descColor=a0aec0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1E35&height=180&section=header&text=Lucas%20Marangoni&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Economics%20%7C%20Investment%20Research%20%7C%20Portfolio%20Thinking&descAlignY=58&descSize=16&descColor=ffffff" />
 
 </div>
-
----
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Marangoni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lbm-marangoni)
-[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lbm.marangoni@gmail.com)
-[![FAAP](https://img.shields.io/badge/FAAP-BIA_Program-003580?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.faap.br)
+[![Email](https://img.shields.io/badge/Email-lbm.marangoni@gmail.com-0D1E35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lbm.marangoni@gmail.com)
+[![FAAP](https://img.shields.io/badge/FAAP-Economics-0D1E35?style=for-the-badge)](https://www.faap.br)
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-I'm a **Economics student at FAAP** (BIA Program — triple degree in Economics, Business Administration & International Relations), currently in my 3rd semester with a strong focus on **quantitative finance and portfolio management**.
+I'm an **Economics student at FAAP** and currently work in **Performance & Insights at Bradesco**.
 
-I'm deeply interested in how data, math, and economic reasoning come together to make smarter investment decisions. My goal is to become a **portfolio manager**, with a special interest in hedge funds, asset management, and quant strategies.
+My main area of interest is investment management, particularly **Asset Management, Equity Research and Portfolio Management**.
 
-- 🏦 Member of **FAAP Finance** — Research Division
-- 📊 Building projects at the intersection of **Python, finance, and data analysis**
-- 📈 Active investor with a real, diversified portfolio
-- 🎯 Long-term goal: Portfolio Manager (Quant) | Hedge Fund | Wealthtech
+I enjoy understanding problems from first principles, identifying the variables that matter most, and turning that reasoning into structured analyses, processes and tools.
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages & Tools**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Python Libraries**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![yFinance](https://img.shields.io/badge/yFinance-6C63FF?style=for-the-badge&logo=yahoo&logoColor=white)
-
-**Finance Knowledge**
-
-![Valuation](https://img.shields.io/badge/Valuation-DCF_%7C_CAGR_%7C_Multiples-0D1117?style=for-the-badge)
-![Portfolio](https://img.shields.io/badge/Portfolio-Markowitz_%7C_IPS_%7C_Allocation-0D1117?style=for-the-badge)
-![Risk](https://img.shields.io/badge/Risk-VaR_%7C_CVaR_%7C_Drawdown-0D1117?style=for-the-badge)
-
-</div>
+My work and projects combine **finance, analytical problem solving and technology**, using tools such as Excel, Python and AI to support research, automate workflows and improve decision-making processes.
 
 ---
 
-## 📂 Featured Projects
+## Current Focus
 
-### 🔷 [Credit Risk Analyzer](https://github.com/lbm-marangoni/credit-risk-analyzer)
-> Credit scoring model with probability of default and risk rating classification
-
-Weighted scoring model that normalizes customer financial data and outputs a structured credit rating (AAA → D) with recommended action — replicating the core logic of institutional credit analysis.
-
-`Python` `NumPy` `Pandas` `Jupyter`
-
-### 🔷 [Simple Stock Data Pipeline](https://github.com/lbm-marangoni/simple-stock-data-pipeline) 
-> Automated pipeline for downloading, storing, and updating historical stock market data 
-
-A Python class-based pipeline that automates the full data collection workflow for equity portfolios — from initial download to incremental updates — storing structured historical data ready for analysis, backtesting, or modeling. 
-
-`Python` `Pandas` `yFinance` `Jupyter`
-
-### 🔷 [Stock Screener — Fundamental Analysis](https://github.com/lbm-marangoni/stock-screener)
-> Filter stocks based on key fundamental metrics to identify investment opportunities
-
-A Python-based stock screener that pulls real-time fundamental data for a list of tickers and filters them against customizable criteria — automating the first layer of any equity research process.
-
-`Python` `Pandas` `yFinance` `Jupyter`
+- Performance & Insights at **Bradesco**
+- Research Member at **FAAP Finance**
+- Deepening **financial statement analysis, company analysis and valuation**
+- Developing stronger **equity research processes**
+- Studying **portfolio construction, risk and asset allocation**
+- Using Python and AI as tools to improve investment research workflows
 
 ---
 
-## 📊 GitHub Stats
+## Investment Focus
 
-<div align="center">
+### Company Analysis
+Understanding companies through financial statements, business models, competitive dynamics, industry drivers, valuation and investment theses.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lbm-marangoni&theme=github_dark" />
+### Portfolio Thinking
+Studying how individual investment ideas interact within a portfolio through risk, return, correlation, sizing, allocation and drawdown.
 
-</div>
+### Investment Judgment
+Developing a disciplined process to distinguish signal from noise, challenge assumptions and improve investment decisions over time.
 
 ---
 
-## 🎓 Education & Background
+## Selected Project
+
+### [SBWAA — Investment Research & Portfolio Management System](https://github.com/lbm-marangoni/sbwaa)
+
+A modular investment research and portfolio-support system inspired by processes used across Asset Management, Hedge Funds and Wealth Management.
+
+The project integrates:
+
+- Macroeconomic analysis
+- Fundamental research
+- Quantitative analysis
+- Portfolio risk
+- Investment Policy Statement constraints
+- Financial data and news
+- Automated research workflows
+
+The main objective is to structure different analytical approaches into a single research process that supports asset analysis and portfolio decision-making.
+
+`Python` `AI` `Investment Research` `Portfolio Management` `Risk`
+
+---
+
+## Other Projects
+
+### [Stock Screener — Fundamental Analysis](https://github.com/lbm-marangoni/stock-screener)
+
+Python-based screener that collects fundamental data and filters companies according to customizable financial criteria, supporting the initial stage of an equity research process.
+
+`Python` `Pandas` `yFinance` `Fundamental Analysis`
+
+### [Simple Stock Data Pipeline](https://github.com/lbm-marangoni/simple-stock-data-pipeline)
+
+Automated workflow for downloading, organizing and updating historical equity data for use in financial analysis, portfolio studies and research projects.
+
+`Python` `Pandas` `yFinance` `Data Pipeline`
+
+---
+
+## Tools
+
+**Finance & Analysis**
+
+`Excel` `Financial Statement Analysis` `Valuation` `Fundamental Analysis` `Portfolio Analysis`
+
+**Technology**
+
+`Python` `Pandas` `NumPy` `Power BI` `Git` `AI-assisted development`
+
+---
+
+## Education & Experience
 
 | | |
 |---|---|
-| 🏛️ **FAAP** — BIA Program | Economics + Business + International Relations (2025–2030) |
-| 💹 **FAAP Finance** | Research Division — Member |
-| 📚 **Company Valuation** — FAAP | M&A, DCF, capital structure, financial modeling |
-| 📊 **Financial Statement Analysis** | Balance sheet, P&L, cash flow, financial ratios |
+| **FAAP** | B.Sc. Economics — Business and International Affairs (BIA), 2025–2028 |
+| **Bradesco** | Performance & Insights Intern |
+| **FAAP Finance** | Research Member |
+| **Company Valuation — FAAP** | Financial analysis, capital structure, M&A and valuation |
 
 ---
 
-## 🚀 What I'm Currently Working On
+## What I'm Building Toward
 
-- 🐍 Deepening **Python for Finance** — expanding projects with more rigorous statistical methods
-- 🔢 Starting to explore **quantitative finance** concepts — portfolio optimization, factor models
+My goal is to build a strong foundation as an investment professional by combining:
+
+**deep company analysis + portfolio thinking + disciplined investment judgment**
+
+while using technology as leverage to improve research and decision-making.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a2e,16213e,0f3460&height=100&section=footer" />
-
-*"You don't get paid for taking risk. You get paid for understanding it."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1E35&height=90&section=footer" />
 
 </div>

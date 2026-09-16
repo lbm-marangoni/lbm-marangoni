@@ -52,33 +52,34 @@ Developing a disciplined process to distinguish signal from noise, challenge ass
 
 ## Selected Project
 
-### [SBWAA — Investment Research & Portfolio Management System](https://github.com/lbm-marangoni/sbwaa)
+### [SBWAA — Investment Research & Portfolio Decision-Support System](https://github.com/lbm-marangoni/sbwaa)
 
-A modular investment research and portfolio-support system inspired by processes used across Asset Management, Hedge Funds and Wealth Management.
+A modular investment research and portfolio decision-support system designed to connect company analysis, valuation, macro context, risk and portfolio workflows within a structured investment process.
 
 The project integrates:
 
 - Macroeconomic analysis
 - Fundamental research
-- Quantitative analysis
+- Valuation
 - Portfolio risk
 - Investment Policy Statement constraints
 - Financial data and news
-- Automated research workflows
+- Monitoring and review workflows
+- AI-assisted research
 
-The main objective is to structure different analytical approaches into a single research process that supports asset analysis and portfolio decision-making.
+The main objective is to organize different analytical inputs into a coherent process that supports asset analysis, portfolio thinking and investment decision-making.
 
-`Python` `AI` `Investment Research` `Portfolio Management` `Risk`
+`Python` `AI` `Investment Research` `Portfolio Analysis` `Decision Support`
 
 ---
 
 ## Other Projects
 
-### [Stock Screener — Fundamental Analysis](https://github.com/lbm-marangoni/stock-screener)
+### [Equity Screening Utility](https://github.com/lbm-marangoni/stock-screener)
 
-Python-based screener that collects fundamental data and filters companies according to customizable financial criteria, supporting the initial stage of an equity research process.
+Lightweight Python tool for filtering a stock universe using selected valuation, profitability and leverage metrics as an initial step in the equity research process.
 
-`Python` `Pandas` `yFinance` `Fundamental Analysis`
+`Python` `Pandas` `yFinance` `Equity Screening`
 
 ### [Simple Stock Data Pipeline](https://github.com/lbm-marangoni/simple-stock-data-pipeline)
 
